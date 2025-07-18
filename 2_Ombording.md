@@ -115,21 +115,17 @@ Link: https://btcmap.org/merchant/node:13006996705
 *************
 
 20. Name: Niño R (Grocery Store)
-Address: 
-Date Added: 
-Link: 
+Address: Calle Tetelo Vargas, El almirante, Santo Domingo, Este
+Date Added: 2025-07-17
+Link: https://btcmap.org/merchant/node:13009416918
 *************
 
 21. Name: Mono (Tire Shop)
-Address: 
-Date Added: 
-Link: 
+Address: Calle Corazón de Jesús, El almirante, Santo Domingo este
+Date Added: 2025-07-17
+Link: https://btcmap.org/merchant/node:13009488924
 *************
 
-22. Name: Mono (Tire Shop)
-Address: 
-Date Added: 
-Link: 
-*************
+
 
 
