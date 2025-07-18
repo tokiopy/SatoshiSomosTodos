@@ -90,32 +90,46 @@ Date Added: 2025-06-14
 Link: https://btcmap.org/merchant/node:12914358579
 *************
 
-16. Name: MiniMarket Central (Supermarket)
+16. Name: Hotel el Escondite (Hostel)
+Address: Gregorio Luperón St., Las Terrenas 32000
+Date Added: 2025-06-14
+Link: https://btcmap.org/merchant/node:12919682928
+*************
+
+17. Name: MiniMarket Central (Supermarket)
 Address: María Trinidad Sánchez St., Samaná 32000
 Date Added: 2025-06-14
 Link: https://btcmap.org/merchant/node:12919662110
 *************
 
-17. Name: VIP Laser Clinic (Clinic)
+18. Name: VIP Laser Clinic (Clinic)
 Address: Jardines del Embajador No. 3, Bella Vista, Santo Domingo
 Date Added: 2025-07-16
 Link: https://btcmap.org/merchant/node:12999969708
 *************
 
-18. Name: Ariel La Rima (Hair Salon)
+19. Name: Ariel La Rima (Hair Salon)
 Address: Elena White St. corner 5th, El Almirante, Santo Domingo
 Date Added: 2025-07-17
 Link: https://btcmap.org/merchant/node:13006996705
 *************
 
-19. Name: Niño R (Grocery Store)
+20. Name: Niño R (Grocery Store)
 Address: 
 Date Added: 
 Link: 
 *************
 
-20. Name: Mono (Tire Shop)
+21. Name: Mono (Tire Shop)
 Address: 
 Date Added: 
 Link: 
 *************
+
+22. Name: Mono (Tire Shop)
+Address: 
+Date Added: 
+Link: 
+*************
+
+
