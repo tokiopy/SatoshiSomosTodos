@@ -120,7 +120,7 @@ Date Added: 2025-07-17
 Link: https://btcmap.org/merchant/node:13009416918
 *************
 
-21. Name: Mono (Tire Shop)
+21. Name: Gomera Monkey  (Tire Shop)
 Address: Calle Corazón de Jesús, El almirante, Santo Domingo este
 Date Added: 2025-07-17
 Link: https://btcmap.org/merchant/node:13009488924
