@@ -1,65 +1,63 @@
 # 🇩🇴 Satoshi Somos Todos
 
-**Una comunidad Bitcoin fundada por una pareja dominicana decidida a transformar su país.**
+**A Bitcoin community founded by a Dominican couple determined to transform their country.**
 
 ---
 
+## Who Are We?
 
+![WhatsApp Image 2025-07-20 at 12 16 10_5d892444](https://github.com/user-attachments/assets/565da754-73ce-4db3-8cee-63277e892351)
 
-## ¿Quiénes somos?
+We are **Emmanuel Fermín (Tokio)** and **Sandra Rivas (Saviria)**, a Dominican couple passionate about financial freedom and the transformational power of Bitcoin. Together, we founded **Satoshi Somos Todos**, a grassroots movement born in the heart of the Caribbean with one mission: to bring Bitcoin education, adoption, and real-world usage to every corner of the Dominican Republic.
 
-![Imagen de WhatsApp 2025-07-20 a las 12 16 10_5d892444](https://github.com/user-attachments/assets/565da754-73ce-4db3-8cee-63277e892351)
-
-
-Somos **Emmanuel Fermín (Tokio)** y **Sandra Rivas (Saviria)**, una pareja dominicana apasionada por la libertad financiera y el poder transformador de Bitcoin. Juntos fundamos **Satoshi Somos Todos**, un movimiento que nace desde el corazón del Caribe con una sola misión: llevar la educación, adopción y uso real de Bitcoin a cada rincón de la República Dominicana.
-
-Nuestro compromiso va más allá de las redes sociales: estamos en las calles, en los colmados, en los barrios, en las escuelas. **Creemos en el poder de las personas educadas y empoderadas, no en la dependencia del sistema fiat.**
+Our commitment goes far beyond social media. We're out in the streets, in small shops, neighborhoods, and public schools.  
+**We believe in the power of educated and empowered people, not in dependence on the fiat system.**
 
 ---
 
-## Lo que hemos logrado
+## What We’ve Achieved
 
-- 🔥 Fundadores de una **economía circular Bitcoin en República Dominicana**, reconocida en BTCMap.
-- 🧠 Lanzamos un **Plan Nacional de Alfabetización Bitcoin**, llevando charlas educativas a escuelas públicas.
-- 🌎 Co-fundadores de la **Federación Latinoamericana de Bitcoiners**, con representación en 16 países.
-- 🧡 Organizamos meetups, onboarding y eventos en zonas populares, demostrando que *Bitcoin es para todos*.
-- 📚 Más de 30 mil personas han sido expuestas a nuestro contenido educativo a través de redes y talleres.
-
----
-
-## ¿Por qué "Satoshi Somos Todos"?
-
-Porque no hay una élite.  
-Porque no hay un líder.  
-Porque **Bitcoin pertenece al pueblo**.  
-Porque cada persona que decide aprender, compartir y usar Bitcoin… **es parte del legado de Satoshi**.
+- 🔥 Founders of a **Bitcoin circular economy in the Dominican Republic**, listed on BTCMap.
+- 🧠 Launched the **National Bitcoin Literacy Plan**, bringing educational talks to public schools.
+- 🌎 Co-founders of the **Latin American Bitcoiners Federation**, now active in 16 countries.
+- 🧡 We organize meetups, onboarding events, and community gatherings, proving that *Bitcoin is for everyone*.
+- 📚 Over 30,000 people have engaged with our educational content through social media and in-person sessions.
 
 ---
 
-## ¿Qué encontrarás en este repositorio?
+## Why "Satoshi Somos Todos"?
 
-Este espacio está diseñado para compartir nuestros avances como comunidad y servir de recurso a otras comunidades que quieran replicar nuestro modelo:
-
-1. **`1_about_us.md`** – Quiénes somos y qué nos mueve.
-2. **`2_Onboarding.md`** – Guías prácticas para comenzar en Bitcoin.
-3. **`3_Events.md`** – Registro de eventos, meetups y actividades.
-
-Pronto añadiremos más herramientas, tutoriales y materiales descargables para multiplicar la adopción.
+Because there’s no elite.  
+Because there’s no single leader.  
+Because **Bitcoin belongs to the people**.  
+Because anyone who chooses to learn, share, and use Bitcoin… **is part of Satoshi’s legacy**.
 
 ---
 
-## Conecta con nosotros
+## What Will You Find in This Repository?
+
+This space is designed to document our progress as a community and serve as a resource for others looking to replicate our model:
+
+1. **`1_about_us.md`** – Who we are and what drives us.
+2. **`2_Onboarding.md`** – Practical guides to getting started with Bitcoin.
+3. **`3_Events.md`** – A record of events, meetups, and activities.
+
+More tools, tutorials, and downloadable materials are coming soon to help scale Bitcoin adoption.
+
+---
+
+## Connect With Us
 
 🔸 Twitter: [@SatoshiSTodos](https://twitter.com/SatoshiSTodos)  
 🔸 GitHub Founder: [@tokiopy](https://github.com/tokiopy)  
-🔸 Comunidad Instagram (https://www.instagram.com/satoshisomostodos/)
-🔸 Comunidad Telegram (https://t.me/+5vuB9qMJKdI4MmQx)
+🔸 Instagram: [SatoshiSomosTodos](https://www.instagram.com/satoshisomostodos/)  
+🔸 Telegram: [Join Our Community](https://t.me/+5vuB9qMJKdI4MmQx)
 
 ---
 
-## ✊🏽 Bitcoin no pide permiso.
+## ✊🏽 Bitcoin Doesn’t Ask for Permission.
 
-Y nosotros tampoco.  
-Esto apenas comienza.
+And neither do we.  
+This is just the beginning.
 
-**#SatoshiSomosTodos ⚡ | #RepublicaDominicana | #BitcoinEsEducación**
+**#SatoshiSomosTodos ⚡ | #DominicanRepublic | #BitcoinIsEducation**
