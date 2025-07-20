@@ -1,6 +1,4 @@
-# Satoshi Somos Todos
-# <img width="92" height="92" alt="image" src="https://github.com/user-attachments/assets/3ede9443-7a53-4dd0-aa76-89013266fa38" />
-
+# Satoshi Somos Todos <img width="92" height="92" alt="image" src="https://github.com/user-attachments/assets/3ede9443-7a53-4dd0-aa76-89013266fa38" />
 
 
 **A Bitcoin community founded by a Dominican couple determined to transform their country.**
