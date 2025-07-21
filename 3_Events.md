@@ -14,6 +14,7 @@ When: 2025-06-11
 Link: https://goo.su/YWeZPk
 *************
 
+![photo_2025-07-21_12-11-10](https://github.com/user-attachments/assets/ab3de296-ed0b-410a-abdf-8d7277382f28)
 3. Name: Bitcoin Meetup 
 where: Coco Food (Santo Domingo)
 When: 2025-07-05
