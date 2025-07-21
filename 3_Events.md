@@ -1,5 +1,6 @@
 Past Events
 
+![photo_2025-07-20_12-00-19](https://github.com/user-attachments/assets/74b87606-06f2-4c17-bd88-77987d20ab81)
 1. Name: Bitcoin pizza Day 
 where: Fabrizio's Pizza (Santo Domingo)
 When: 2025-05-22
