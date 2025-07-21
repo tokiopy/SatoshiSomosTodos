@@ -5,7 +5,7 @@ Past Events
 where: Fabrizio's Pizza (Santo Domingo)
 When: 2025-05-22
 Link: https://goo.su/Umm7KGd
-*************
+
 
 
 
@@ -14,7 +14,7 @@ Link: https://goo.su/Umm7KGd
 where: Bitcoin Plaza (Samana)
 When: 2025-06-11
 Link: https://goo.su/YWeZPk
-*************
+
 
 
 
@@ -23,4 +23,4 @@ Link: https://goo.su/YWeZPk
 where: Coco Food (Santo Domingo)
 When: 2025-07-05
 Link: https://goo.su/aJl4W1
-*************
+
