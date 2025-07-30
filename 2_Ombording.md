@@ -126,6 +126,12 @@ Date Added: 2025-07-17
 Link: https://btcmap.org/merchant/node:13009488924
 *************
 
+22. Name: Punto Bistro  (Restaurante)
+Address: Calle María Trinidad Sánchez #28 , Samaná, Republica Dominicana
+Date Added: 2025-07-30
+Link: https://btcmap.org/merchant/node:13038043189
+*************
+
 
 
 
