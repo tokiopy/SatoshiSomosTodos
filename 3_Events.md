@@ -15,3 +15,9 @@ where: Coco Food (Santo Domingo)
 When: 2025-07-05
 Link: https://goo.su/aJl4W1
 
+4. Name:  Global Entrepreneurship Week
+where: Santo Domingo City Hall
+When: 2024-11-11
+Link: https://x.com/unidosxsatoshi/status/1856173383609700453
+
+
