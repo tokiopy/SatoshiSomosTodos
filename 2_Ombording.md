@@ -132,6 +132,24 @@ Date Added: 2025-07-30
 Link: https://btcmap.org/merchant/node:13038043189
 *************
 
+23. Name: Sarita Samana  (Heladeria)
+Address: C/ Julio Lavander, Santa Barbar, Samaná, República Dominicana
+Date Added: 2025-08-04
+Link: https://btcmap.org/merchant/way:553773405
+*************
+
+24. Name: Ganesh  (Hostel)
+Address: Km #8 Carreterra El valle, El valle Samana, República Dominicana
+Date Added: 2025-08-05
+Link: https://btcmap.org/merchant/way:529318923
+*************
+
+25. Name: Shivas  (Hostel)
+Address: Km #8 Carreterra El valle, El valle Samana, República Dominicana
+Date Added: 2025-08-05
+Link: https://btcmap.org/merchant/node:13050362262
+*************
+
 
 
 
