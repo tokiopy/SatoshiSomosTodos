@@ -18,6 +18,6 @@ Link: https://goo.su/aJl4W1
 4. Name:  Global Entrepreneurship Week
 where: Santo Domingo City Hall
 When: 2024-11-11
-Link: https://x.com/unidosxsatoshi/status/1856173383609700453
+Link: https://goo.su/KALEqC
 
 
