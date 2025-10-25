@@ -20,4 +20,10 @@ where: Santo Domingo City Hall
 When: 2024-11-11
 Link: https://goo.su/KALEqC
 
+5. Name:  Workshop (Bitcoin cycles)
+where: Blue Mall, Santo Domingo
+When: 2025-10-16
+Link: https://x.com/unidosxsatoshi/status/1979244739183436091
+Link: https://www.instagram.com/reel/DP6z-d_DbAF/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+
 
