@@ -48,7 +48,7 @@ Date Added: 2025-05-04
 Link: https://btcmap.org/merchant/node:12810735064
 *************
 
-9. Name: Limón Tacos y Empanadas
+9. Name: Limón Tacos y Empanadas (Comida Rapida)
 Address: Las Acacias Residential, KM 13 Carretera Mella, Santo Domingo Este
 Date Added: 2025-05-05
 Link: https://btcmap.org/merchant/node:12811673411
@@ -72,7 +72,7 @@ Date Added: 2025-05-16
 Link: https://btcmap.org/merchant/node:12842175968
 *************
 
-13. Name: Antonio 2 Café
+13. Name: Antonio 2 Café (Cafeteria)
 Address: 2 Libertad St., Palmarito, La Vega
 Date Added: 2025-05-19
 Link: https://btcmap.org/merchant/node:12849695485
@@ -149,6 +149,26 @@ Address: Km #8 Carreterra El valle, El valle Samana, República Dominicana
 Date Added: 2025-08-05
 Link: https://btcmap.org/merchant/node:13050362262
 *************
+
+26. Name: El Clavo Empanadas (Fast Food)
+Address: 418 Calle Bartolomé Frechi Ezq Corazon de Jesus El almirante, Santo Domingo este 11802
+Date Added: 2025-10-08
+Link: https://btcmap.org/merchant/29135
+*************
+
+27. Name: Colmado San Juan (Mini Market)
+Address: 1 Calle Valle Verde Amalia, San Isidro, Santo Domingo, Este
+Date Added: 2025-10-13
+Link: https://btcmap.org/merchant/29136
+*************
+
+28. Name: Chenar Barberia (Barbershop)
+Address: Calle pimienta ezq Violeta Padro Oriental Santo Domingo Este
+Date Added: 2025-10-09
+Link: https://btcmap.org/merchant/29149
+*************
+
+
 
 
 
